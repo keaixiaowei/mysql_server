@@ -1,0 +1,5 @@
+/home/iot/caiwei/mysql_test/CMakeFiles/rebuild_cache.dir
+/home/iot/caiwei/mysql_test/CMakeFiles/edit_cache.dir
+/home/iot/caiwei/mysql_test/src/CMakeFiles/rebuild_cache.dir
+/home/iot/caiwei/mysql_test/src/CMakeFiles/mysqlserver.dir
+/home/iot/caiwei/mysql_test/src/CMakeFiles/edit_cache.dir
